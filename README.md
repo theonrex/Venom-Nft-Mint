@@ -28,11 +28,6 @@ The **VenomMeme** smart contract is an ERC721-based non-fungible token (NFT) col
 - **`getMintTimestamp(uint256 tokenId)`**: Retrieves the timestamp when the specified token was minted.
 - **`royaltyInfo(uint256 tokenId, uint256 salePrice)`**: Returns the royalty receiver address and the royalty amount for a given sale price.
 
-## Deployment
-
-- **Solidity Version:** 0.8.17
-- **Dependencies:** OpenZeppelin Contracts
-
 ## Installation
 
 To deploy and interact with this contract, you'll need to install the following dependencies:
