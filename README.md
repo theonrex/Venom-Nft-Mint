@@ -38,4 +38,4 @@ The **VenomMeme** smart contract is an ERC721-based non-fungible token (NFT) col
 To deploy and interact with this contract, you'll need to install the following dependencies:
 
 ```bash
-npm install @openzeppelin/contracts
+npm install
